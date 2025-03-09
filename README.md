@@ -27,3 +27,8 @@ A player can play a perfect game of tic-tac-toe (to win or at least draw) if, ea
 6. Opposite corner: If the opponent is in the corner, the player plays the opposite corner.
 7. Empty corner: The player plays in a corner square.
 8. Empty side: The player plays in a middle square on any of the four sides.
+
+
+# Connect with Me
+- LinkedIn: www.linkedin.com/in/karanroshan
+- Email: karanroshan91@gmail.com
